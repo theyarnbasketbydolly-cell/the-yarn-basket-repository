@@ -1,0 +1,8 @@
+{
+  "name": "the-yarn-basket-by-dolly",
+  "compatibility_date": "2026-10-07",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public"
+  }
+}
